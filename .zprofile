@@ -1,6 +1,8 @@
 #vim terminal
 set -o vi
 
+alias cdh='cd ~/Documents/Home'
+
 #homebrew
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
