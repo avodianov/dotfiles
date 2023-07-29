@@ -1,6 +1,9 @@
 #vim terminal
 set -o vi
 
+alias cdh='cd ~/Documents/Home'
+alias diary='vim ~/Documents/Home/writing/diary'
+
 #     ____      ____
 #    / __/___  / __/
 #   / /_/_  / / /_
