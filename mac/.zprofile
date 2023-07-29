@@ -4,6 +4,9 @@ set -o vi
 #homebrew
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+alias cdh='cd ~/Documents/Home'
+alias diary='vim ~/Documents/Home/writing/diary'
+
 #     ____      ____
 #    / __/___  / __/
 #   / /_/_  / / /_
